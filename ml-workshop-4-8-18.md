@@ -53,7 +53,7 @@ This hands-on lab includes the following exercises:
 Estimated time to complete this lab: **60** minutes.
 
 <a name="Exercise1"></a>
-## Exercise1: Create a Machine Learning experiment
+## Exercise 1: Create a Machine Learning experiment
 
 The first step in employing Azure Machine Learning Studio is to create a Machine Learning Studio workspace and an experiment to go in it. In this exercise, you'll get a machine-learning experiment up and running in Azure Machine Learning Studio.
 
@@ -75,9 +75,9 @@ The first step in employing Azure Machine Learning Studio is to create a Machine
 
 	> Storage-account names can be 3 to 24 characters in length, can only contain numbers and lowercase letters, and must be unique within Azure. A green check mark next to the name indicates that it meets all these criteria.
 
-	Now click **Web service plan pricing tier** and select **S1 Standard** in the "Choose your pricing tier blade." Finish up by clicking **Select** at the bottom of that blade, and clicking **Create** at the bottom of the "Machine Learning Studio workspace" blade.
+	Now click **Web service plan pricing tier** and select **DEVTEST Standard** in the "Choose your pricing tier blade." Finish up by clicking **Select** at the bottom of that blade, and clicking **Create** at the bottom of the "Machine Learning Studio workspace" blade.
 
-    ![Creating a workspace](Images/new-ml-workspace-4.png)
+    ![Creating a workspace](https://user-images.githubusercontent.com/1689183/38526090-b2c10778-3c09-11e8-983a-d0d1043f8bf6.png)
 
     _Creating a workspace_
 
